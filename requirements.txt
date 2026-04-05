@@ -1,7 +1,6 @@
 streamlit
-yfinance
+alpaca-py
 pandas
-feedparser
-sentence-transformers
-plotly
-tqdm
+numpy
+matplotlib
+seaborn
